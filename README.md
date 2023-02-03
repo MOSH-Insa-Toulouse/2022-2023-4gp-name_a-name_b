@@ -4,8 +4,8 @@ TD Capteur
 
 ## TODO List
 
-- [ ] Add folders organization
-- [ ] Add KiCad project
+- [+] Add folders organization
+- [+] Add KiCad project
 - [ ] Create KiCad schematic
 - [ ] Add Arduino project
 
