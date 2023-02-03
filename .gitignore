@@ -1,6 +1,8 @@
 # Ajout de tous les fichiers ZIP pour les exclures des commits
 *.zip
 
+.DS_Store
+
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
